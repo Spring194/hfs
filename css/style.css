@@ -56,7 +56,18 @@ body{
 }
 
 .intro-left::before {
-    content: "Air Pods Max";
+    content: "Air \A Pods \A Max";
+    white-space: pre;
+    position: absolute;
+    color: #393939;
+    font-size: 250px;
+    font-weight: 900;
+    line-height: 200px;
+    z-index: -1;
+    left: 0;
+    background: linear-gradient(0deg, #6B6B6B, #6B6B6B, #6B6B6B, #6B6B6B);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 .intro-img {
