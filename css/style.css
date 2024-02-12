@@ -65,7 +65,7 @@ body{
     line-height: 200px;
     z-index: -1;
     left: 0;
-    background: linear-gradient(0deg, #6B6B6B, #6B6B6B, #6B6B6B, #6B6B6B);
+    background: linear-gradient(0deg, #6b6b6b09, #6b6b6b2d, #6b6b6b63, #6b6b6b05);
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
